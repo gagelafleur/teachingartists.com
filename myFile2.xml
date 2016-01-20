@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+
+<settings 
+
+width	       	= "329"
+height         	= "250"
+buttonPos	= "bottom-left"
+showNav		= "true"
+
+showNumber	   = "false" 
+btnNumberBgColor   = "0xFFFFFF"
+bntNumberForeColor = "0x000000"
+
+showArrow	  = "true"
+btnArrowBgColor   = "0xFFFFFF"
+bntArrowForeColor = "0x000000"
+
+showPause	  = "true"
+btnPauseBgColor   = "0x999999"
+bntPauseForeColor = "0xFFFFFF"
+
+btnSpace	= "2"
+>
+	
+</settings>
+
+<images>	
+
+	<image>
+		<file>home banner/JOVIA ARMSTRONG banner.jpg</file>	
+		<text></text>
+		<url>whoweareJovia.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/LAUREN ATKINSON banner.jpg</file>			
+		<text></text>
+		<url>whoweareLauren.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/SOJN BOOTHROYD banner.jpg</file>		
+		<text></text>
+		<url>whoweareSojn.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+
+	<image>
+		<file>home banner/REGGIE COLEMAN banner.jpg</file>		
+		<text></text>
+		<url>whoweareReggie.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/AMINISHA FERDINAND banner.jpg</file>		
+		<text></text>
+		<url>whoweareAminisha.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+
+	<image>
+		<file>home banner/PEGGY HASEGAWA banner.jpg</file>		
+		<text></text>
+		<url>whowearePeggy.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/MIKE HAZARD banner.jpg</file>		
+		<text></text>
+		<url>whoweareMike.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+
+	<image>
+		<file>home banner/RICHARD MANNOIA banner.jpg</file>		
+		<text></text>
+		<url>whoweareRichard.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/CECIL MCDONALD JR banner.jpg</file>		
+		<text></text>
+		<url>whoweareCecil.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/EDUARDO MENDONCA banner.jpg</file>		
+		<text></text>
+		<url>whoweareEduardo.htm</url>
+		<window>_selfk</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/KARLA NWEJE banner.jpg</file>		
+		<text></text>
+		<url>whoweareKarla.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+	
+	<image>
+		<file>home banner/ANTONIA PEREZ banner.jpg</file>		
+		<text></text>
+		<url>whoweareAntonia.htm</url>
+		<window>_self</window>
+		<timer>8</timer>
+	</image>
+
+
+
+
+
+</images>
+</xml>

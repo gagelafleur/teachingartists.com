@@ -1,0 +1,83 @@
+[11-Feb-2015 22:52:22] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Alpha.php on line 12
+[11-Feb-2015 22:52:23] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Date.php on line 12
+[11-Feb-2015 22:52:24] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Email.php on line 14
+[11-Feb-2015 22:52:25] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/EmailConfirm.php on line 12
+[11-Feb-2015 22:52:27] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Time.php on line 12
+[11-Feb-2015 22:52:28] PHP Fatal error:  Interface 'Quform_Validator_Interface' not found in /home/ata/public_html/quform/lib/Quform/Validator/Abstract.php on line 12
+[11-Feb-2015 22:52:31] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/WordCount.php on line 13
+[11-Feb-2015 22:52:32] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Captcha.php on line 13
+[11-Feb-2015 22:52:33] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/AlphaNumeric.php on line 12
+[11-Feb-2015 22:52:34] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/GreaterThan.php on line 12
+[11-Feb-2015 22:52:35] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/FileUpload.php on line 12
+[11-Feb-2015 22:52:37] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Regex.php on line 12
+[11-Feb-2015 22:52:38] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/StringLength.php on line 13
+[11-Feb-2015 22:52:40] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/LessThan.php on line 12
+[11-Feb-2015 22:52:42] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Recaptcha.php on line 12
+[11-Feb-2015 22:52:43] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Digits.php on line 12
+[11-Feb-2015 22:52:44] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/InArray.php on line 12
+[17-Apr-2015 06:51:06] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Alpha.php on line 12
+[17-Apr-2015 06:51:09] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Date.php on line 12
+[17-Apr-2015 06:51:11] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/EmailConfirm.php on line 12
+[17-Apr-2015 06:51:12] PHP Fatal error:  Interface 'Quform_Validator_Interface' not found in /home/ata/public_html/quform/lib/Quform/Validator/Abstract.php on line 12
+[17-Apr-2015 06:51:13] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/WordCount.php on line 13
+[17-Apr-2015 06:51:14] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Captcha.php on line 13
+[17-Apr-2015 06:51:36] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/AlphaNumeric.php on line 12
+[17-Apr-2015 06:51:37] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/GreaterThan.php on line 12
+[17-Apr-2015 06:51:38] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/FileUpload.php on line 12
+[17-Apr-2015 06:51:39] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Regex.php on line 12
+[17-Apr-2015 06:51:40] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/StringLength.php on line 13
+[17-Apr-2015 06:51:41] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/LessThan.php on line 12
+[17-Apr-2015 06:51:42] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Recaptcha.php on line 12
+[17-Apr-2015 06:51:44] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Digits.php on line 12
+[17-Apr-2015 06:51:45] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/InArray.php on line 12
+[17-Apr-2015 06:51:46] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Identical.php on line 12
+[17-Apr-2015 06:51:47] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Required.php on line 12
+[17-Apr-2015 06:51:49] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Time.php on line 12
+[17-Apr-2015 06:51:50] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Email.php on line 14
+[03-Jun-2015 16:31:46] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Alpha.php on line 12
+[03-Jun-2015 16:31:48] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Date.php on line 12
+[03-Jun-2015 16:31:49] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Time.php on line 12
+[03-Jun-2015 16:31:50] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/EmailConfirm.php on line 12
+[03-Jun-2015 16:31:53] PHP Fatal error:  Interface 'Quform_Validator_Interface' not found in /home/ata/public_html/quform/lib/Quform/Validator/Abstract.php on line 12
+[03-Jun-2015 16:31:54] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/WordCount.php on line 13
+[03-Jun-2015 16:31:55] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Captcha.php on line 13
+[03-Jun-2015 16:31:57] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Email.php on line 14
+[03-Jun-2015 16:31:58] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/AlphaNumeric.php on line 12
+[03-Jun-2015 16:31:59] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/GreaterThan.php on line 12
+[03-Jun-2015 16:32:00] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/FileUpload.php on line 12
+[03-Jun-2015 16:32:01] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Regex.php on line 12
+[03-Jun-2015 16:32:02] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/StringLength.php on line 13
+[03-Jun-2015 16:32:03] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/LessThan.php on line 12
+[03-Jun-2015 16:32:05] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Recaptcha.php on line 12
+[03-Jun-2015 16:32:06] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Digits.php on line 12
+[03-Jun-2015 16:32:07] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/InArray.php on line 12
+[03-Jun-2015 16:32:08] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Identical.php on line 12
+[03-Jun-2015 16:32:09] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Required.php on line 12
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Interface 'Quform_Validator_Interface' not found in /home/ata/public_html/quform/lib/Quform/Validator/Abstract.php on line 13
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Alpha.php on line 13
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/AlphaNumeric.php on line 13
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Captcha.php on line 14
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Date.php on line 13
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Digits.php on line 13
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Email.php on line 15
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/EmailConfirm.php on line 13
+[08-Jul-2015 00:19:33 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/FileUpload.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Interface 'Quform_Validator_Interface' not found in /home/ata/public_html/quform/lib/Quform/Validator/Abstract.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Alpha.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/AlphaNumeric.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Captcha.php on line 14
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Date.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Digits.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Email.php on line 15
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/EmailConfirm.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/FileUpload.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/GreaterThan.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Identical.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/InArray.php on line 13
+[23-Sep-2015 22:24:31 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/LessThan.php on line 13
+[23-Sep-2015 22:24:32 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Recaptcha.php on line 13
+[23-Sep-2015 22:24:32 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Regex.php on line 13
+[23-Sep-2015 22:24:32 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Required.php on line 13
+[23-Sep-2015 22:24:32 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/StringLength.php on line 14
+[23-Sep-2015 22:24:32 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/Time.php on line 13
+[23-Sep-2015 22:24:32 UTC] PHP Fatal error:  Class 'Quform_Validator_Abstract' not found in /home/ata/public_html/quform/lib/Quform/Validator/WordCount.php on line 14
