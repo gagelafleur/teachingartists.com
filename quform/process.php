@@ -39,8 +39,9 @@ $config['email'] = true;
  *     'recipient2@example.com'
  * );
  */
+ //'rich@printconnections.com',
 $config['recipients'] = array( 
-'rich@printconnections.com',
+'gpl9310@gmail.com',
 'ddavis@teachingartists.com'
 );
 
