@@ -40,8 +40,7 @@ $config['email'] = true;
  * );
  */
  //'rich@printconnections.com',
-$config['recipients'] = array( 
-'gpl9310@gmail.com',
+$config['recipients'] = array(
 'ddavis@teachingartists.com'
 );
 
